@@ -1,0 +1,4 @@
+llama-hub==0.0.77
+llama-index==0.9.40
+pinecone-client==3.0.2
+python-dotenv==1.0.1
