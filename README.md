@@ -1,6 +1,6 @@
 # StripeDocsLoader Demo
 
-This repo contains an example of using the LlamaIndex [StripeDocsReader](https://llamahub.ai/l/stripe_docs). This loader iterates through Stripe's sitemap and consumes all of the documentation allowing users to create embeddings from them and then do RAG on those embeddings.
+This repo contains an example of using the LlamaIndex [StripeDocsReader](https://llamahub.ai/l/readers/llama-index-readers-stripe-docs). This loader iterates through Stripe's sitemap and consumes all of the documentation allowing users to create embeddings from them and then do RAG on those embeddings.
 
 _Note: This demo is likely not better than GPT. The RAG approach does not utilize any of the customization that LlamaIndex provides. GPT is also already trained on this content._
 
